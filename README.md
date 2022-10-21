@@ -1,4 +1,4 @@
-# Classification-of-heart_failure
+# Classification-of-heart_failure using KNN
 K-Nearest Neighbors for Classification of dealth
 # Objectives
 Use K Nearest neighbors to classify data
